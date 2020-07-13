@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Truffle Cake",
+    "price": 150,
+    "tags": "Savouries",
+    "photos": ""
+  },
+  {
+    "name": "Ring Cake ",
+    "price": 250,
+    "tags": "Savouries",
+    "photos": ""
+  },
+  {
+    "name": "Crunch Praline Pastry",
+    "price": 150,
+    "tags": "Savouries",
+    "photos": ""
+  }
+]
