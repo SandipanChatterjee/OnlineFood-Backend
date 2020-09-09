@@ -29,7 +29,7 @@ app.use("/api/v2/resturant", resturant);
 
 const PORT = process.env.PORT || 5500;
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`server running on PORT ${PORT}`);
 });
 
